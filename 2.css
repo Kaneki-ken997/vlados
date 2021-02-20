@@ -1,0 +1,97 @@
+header{
+  background-color: #FFFFFF;
+  
+ 
+}
+
+/* Navbar */
+.menu ul li{
+  padding: 10px;
+  margin: 1px;
+}
+.menu ul > li:hover{
+  background-color: #CD853F;
+}
+.menu ul ul > li:hover{
+  background-color: #A0522D;
+}
+.menu ul li, .menu ul{
+  display: inline-block;
+}
+.menu ul{
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-color:#B8860B ;
+}
+.menu ul ul{
+  display: none;
+  position: absolute;
+  background-color:#A0522D;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.menu ul a{
+  color:#F5DEB3 ;
+  text-decoration: none;
+  
+}
+.menu ul ul a{
+  color: #F5DEB3;
+  text-decoration: none;
+}
+.menu li:hover ul{
+  display: block;
+}
+
+.menu li:hover li{
+  display: block;
+}
+  .menu{
+  margin: 19px; 
+    padding: 0 0px 24px 420px;
+    bottom: 16px;
+    font-size: 20px;
+    border:   
+  }
+
+  p {
+    margin: 0 0 20px;
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.mops{
+  margin: 90px 2px 3px -390px
+}
+.logo2{
+  margin: -300px 3px 34px 425px;
+  width: 250px;
+    height: 95px
+}  
+.text{
+  font-size: 55px;
+  padding: 43px 23px 3px 120px;
+}
+ol {
+  background: #ff9999;
+  padding: 15px;
+  margin: 2px 300px 4px -300px
+}
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin: 5px 0 0 35px;
+}
+.vasya {
+  background: #4682B4;
+  padding: 15px;
+  margin: 2px 300px 4px -300px
+}
+.vasya li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin: 5px 0 0 35px;
+}
